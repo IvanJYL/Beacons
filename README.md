@@ -28,30 +28,30 @@ El número de objetos inteligentes va a explotar, tanto en nuestros hogares y en
 ###Como usarlo
 
 #Paso 1
-   Se enciende el la flora y modulo bluetooth para activar el beacon
+  Se enciende el la flora y modulo bluetooth para activar el beacon
     <img class="image-center" src="img/Beacons/Flora.png"/>
 
 #Paso 2
-   Es necesario encernder el Bluetooth en el dispositivo.
+  Es necesario encernder el Bluetooth en el dispositivo.
     <img class="image-center" src="img/Beacons/Blue.png/>
    
 #Paso 3   
-   Se abre la aplicacion The Physical Web y se deja en segundo plano.
+  Se abre la aplicacion The Physical Web y se deja en segundo plano.
     <img class="image-center" src="img/Beacons/App.png"/>
 
 #Paso 4
-   Cuando el dispositivo pase cerca de un Beacon este recibira el mensaje.
+  Cuando el dispositivo pase cerca de un Beacon este recibira el mensaje.
     <img class="image-center" src="img/Beacons/Caja.png"/>
     
 #Paso 5
-   Cuando el telefono reciba el beacon se activara una notificacion, al pulsar sobre ella nos abrira la URL.
+  Cuando el telefono reciba el beacon se activara una notificacion, al pulsar sobre ella nos abrira la URL.
     <img class="image-center" src="img/Beacons/Notificacion.png"/>
 
    ###Listo!!!    
    
 
 ##Demostracion
-  <a href="https://youtu.be/8h5rDCZnrlQ" target="_blank"> <img class="image-center" src="img/Beacons/Video.png"/>
+  <img class="image-center" src="img/Beacons/Video.png"/>
   
   [Ver Video](https://youtu.be/8h5rDCZnrlQ)
 
