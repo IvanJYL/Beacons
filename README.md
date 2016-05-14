@@ -72,5 +72,6 @@ date:   2015-05-12 12:12:12
   
 
 ### Equipo:
-    Ivan De Jesus Yam Lino
-    Hector Rodrigo Polanco Balam
+  Ivan De Jesus Yam Lino
+  
+  Hector Rodrigo Polanco Balam
