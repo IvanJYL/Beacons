@@ -6,10 +6,14 @@ avatar: "img/authors/wferr.png"
 image: "img/pannic_button/Logo.png"
 date:   2015-05-12 12:12:12
 ---
-#Beacon#
+#Beaconmatic’s#
 
-Los Beacons son un proyecto en etapa temprana en el que se busca llevar el Internet en las cosas. Los Beacon es un esfuerzo para extender el núcleo de la web, la URL, a los objetos físicos cotidianos. Nuestra premisa básica es que usted debería ser capaz de interactuar con cualquier objeto físico "inteligente " (por ejemplo, una máquina expendedora, un cartel, un juguete, una parada de autobús, un coche de alquiler) Sin necesidad de descargar una aplicación. La experiencia del usuario de los objetos inteligentes debe ser mucho como eslabones de un navegador web: es decir, basta con TOCAR y USAR.
-En su base, los Beacon es un servicio de localización: un objeto inteligente difunde URLs relevantes que cualquier dispositivo cercano puede recibir. Este simple capacidad puede abrir nuevas e interesantes formas de interactuar con la Web.
+
+##Definición del proyecto.
+  Beaconmatic’s es un proyecto basado en el uso de Beacons para publicidad de establecimientos comerciales.
+
+##¿Que es un beacon? 
+  Un beacon es un dispositivo de bajo consumo que emite una señal broadcast, y son suficientemente pequeños para fijarse en una pared o mostradores utiliza conexión bluetooth de bajo consumo (BLE)  para transmitir mensajes o avisos directamente a un dispositivo móvil sin necesidad de una sincronización de los aparatos.
 
 ##¿Por qué URL ?
 
