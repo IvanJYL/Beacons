@@ -29,11 +29,11 @@ El número de objetos inteligentes va a explotar, tanto en nuestros hogares y en
 
 #Paso 1
    Se enciende el la flora y modulo bluetooth para activar el beacon
-    <img class="image-center" src="img//Flora.jpg"/>
+    <img class="image-center" src="img/Beacons/Flora.png"/>
 
 #Paso 2
    Es necesario encernder el Bluetooth en el dispositivo.
-    <img class="image-center" src="img/Beacons/Blue.png"  style="display:inline"/>
+    <img class="image-center" src="img/Beacons/Blue.png/>
    
 #Paso 3   
    Se abre la aplicacion The Physical Web y se deja en segundo plano.
@@ -51,7 +51,7 @@ El número de objetos inteligentes va a explotar, tanto en nuestros hogares y en
    
 
 ##Demostracion
-  <a href="https://youtu.be/8h5rDCZnrlQ" target="_blank" ><img src="img/Beacons/Video.png" alt="Beacons" width="320" height="240" border="10" /></a>
+  <a href="https://youtu.be/8h5rDCZnrlQ" target="_blank"><img class="image-center" src="img/Beacons/Video.png"/>
   
   [Ver Video](https://youtu.be/8h5rDCZnrlQ)
 
