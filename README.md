@@ -32,15 +32,15 @@ El número de objetos inteligentes va a explotar, tanto en nuestros hogares y en
     <img class="image-center" src="img/Beacons/Flora.png"/>
 
 #Paso 2
-  Es necesario encernder el Bluetooth en el dispositivo.
-     <img class="image-center" src="img/Beacons/Blue.png"/>
+  Es necesario encernder el Bluetooth en el dispositivo para la comunicacion con la flora.
+     <img class="image-left" src="img/Beacons/Blue.png"/>
 
 #Paso 3   
-  Se abre la aplicacion The Physical Web y se deja en segundo plano.
+  Se abre la aplicacion The Physical Web no es necesario mantenerla abierta puede dejar en segundo plano.
     <img class="image-center" src="img/Beacons/App.png"/>
 
 #Paso 4
-  Cuando el dispositivo pase cerca de un Beacon este recibira el mensaje.
+  Cuando el dispositivo pase cerca de un transmisor Beacon este recibira el mensaje al telefono.
     <img class="image-center" src="img/Beacons/Caja.png"/>
     
 #Paso 5
@@ -50,9 +50,8 @@ El número de objetos inteligentes va a explotar, tanto en nuestros hogares y en
    ###Listo!!!    
    
 
-##Demostracion
-  Video Promocional
-    <img class="image-center" src="img/Beacons/Video.png"/>
+##Demostracion (Video Promocional)
+  <img class="image-center" src="img/Beacons/Video.PNG"/>
   
 [Ver Video](https://youtu.be/8h5rDCZnrlQ)
 
