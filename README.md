@@ -33,8 +33,8 @@ El número de objetos inteligentes va a explotar, tanto en nuestros hogares y en
 
 #Paso 2
   Es necesario encernder el Bluetooth en el dispositivo.
-    <img class="image-center" src="img/Beacons/Blue.png/>
-   
+     <img class="image-center" src="img/Beacons/Blue.png"/>
+
 #Paso 3   
   Se abre la aplicacion The Physical Web y se deja en segundo plano.
     <img class="image-center" src="img/Beacons/App.png"/>
@@ -51,9 +51,10 @@ El número de objetos inteligentes va a explotar, tanto en nuestros hogares y en
    
 
 ##Demostracion
-  <img class="image-center" src="img/Beacons/Video.png"/>
+  Video Promocional
+    <img class="image-center" src="img/Beacons/Video.png"/>
   
-  [Ver Video](https://youtu.be/8h5rDCZnrlQ)
+[Ver Video](https://youtu.be/8h5rDCZnrlQ)
 
 ### Lenguajes de programación :
 * Arduino: Usado para la configuracion de la Flora y el modulo Bluetooth. [Ver repositorio](https://github.com/IvanJYL/Beacons/tree/master/PhysicalWeb)
