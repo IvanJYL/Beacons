@@ -41,11 +41,11 @@ El número de objetos inteligentes va a explotar, tanto en nuestros hogares y en
 
 #Paso 4
    Cuando el dispositivo pase cerca de un Beacon este recibira el mensaje.
-    <img class="image-center" src="img/Beacom/Caja.png"/>
+    <img class="image-center" src="img/Beacons/Caja.png"/>
     
 #Paso 5
    Cuando el telefono reciba el beacon se activara una notificacion, al pulsar sobre ella nos abrira la URL.
-    <img class="image-center" src="img/Beacon/Notificacion.png"/>
+    <img class="image-center" src="img/Beacons/Notificacion.png"/>
 
    ###Listo!!!    
    
