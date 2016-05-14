@@ -19,10 +19,9 @@ date:   2015-05-12 12:12:12
 
 La transmicion de una URL nos brinda grandes beneficios:
 
-  * Una página web con enfocada a las necesidades del establecimiento
-  * Fácil transmision de informacion.
+  * Una página web con un enfoque a las necesidades del establecimiento
   * Solo requiere un navegador y no de aplicación por cada beacon.
-
+  *
 ##¿Por qué usar beacons?
 
   El número de objetos inteligentes va a explotar, tanto en nuestros hogares y en los espacios públicos. Al igual que la web, no va a ser una larga cola de interactividad para los objetos inteligentes. Sin embargo, la sobrecarga de la instalación de una aplicación para cada uno de ellos simplemente no escala. Necesitamos un sistema que le permite caminar y utilizar un dispositivo con sólo un toque. La Web física no se trata de sustituir las aplicaciones nativas; Se trata de permitir la interacción de los momentos en los que las aplicaciones nativas simplemente no son prácticos.
@@ -35,11 +34,11 @@ La transmicion de una URL nos brinda grandes beneficios:
 ##Como usarlo
 
 ####Paso 1
-    Se enciende el la flora y modulo bluetooth para activar el beacon ambos son alimentados por una bateria de 3.3V
+  Se enciende el la flora y modulo bluetooth para activar el beacon ambos son alimentados por una bateria de 3.3V
     <img class="image-center" src="img/Beacons/Flora.png"/>
 
 ####Paso 2
-    Es necesario encernder el Bluetooth en el dispositivo para la comunicacion con la flora.
+  Es necesario encernder el Bluetooth en el dispositivo para la comunicacion con la flora.
     <img class="image-left" src="img/Beacons/Blue.png"/>
 
 ####Paso 3   
