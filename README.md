@@ -8,9 +8,7 @@ date:   2015-05-12 12:12:12
 ---
 #Beacon#
 
-Este es un proyecto experimental en etapa temprana en el que se busca llevar el Internet en las cosas.
-Los Beacon es un esfuerzo para extender la superpotencia núcleo de la web, la URL, a los objetos físicos cotidianos. Nuestra premisa básica es que usted debería ser capaz de subir a cualquier objeto físico "inteligente " (por ejemplo, una máquina expendedora, un cartel, un juguete, una parada de autobús, un coche de alquiler) e interactuar con él sin necesidad de descargar una aplicación en primer lugar. La experiencia del usuario de los objetos inteligentes debe ser mucho como eslabones de un navegador web: es decir, basta con TOCAR y USAR. 
-
+Los Beacons son un proyecto en etapa temprana en el que se busca llevar el Internet en las cosas. Los Beacon es un esfuerzo para extender el núcleo de la web, la URL, a los objetos físicos cotidianos. Nuestra premisa básica es que usted debería ser capaz de interactuar con cualquier objeto físico "inteligente " (por ejemplo, una máquina expendedora, un cartel, un juguete, una parada de autobús, un coche de alquiler) Sin necesidad de descargar una aplicación. La experiencia del usuario de los objetos inteligentes debe ser mucho como eslabones de un navegador web: es decir, basta con TOCAR y USAR.
 En su base, los Beacon es un servicio de localización: un objeto inteligente difunde URLs relevantes que cualquier dispositivo cercano puede recibir. Este simple capacidad puede abrir nuevas e interesantes formas de interactuar con la Web.
 
 ##¿Por qué URL ?
