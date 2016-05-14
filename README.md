@@ -28,7 +28,7 @@ El número de objetos inteligentes va a explotar, tanto en nuestros hogares y en
 ###Como usarlo
 
 #Paso 1
-  Se enciende el la flora y modulo bluetooth para activar el beacon
+  Se enciende el la flora y modulo bluetooth para activar el beacon ambos son alimentados por una bateria de 3.3V
     <img class="image-center" src="img/Beacons/Flora.png"/>
 
 #Paso 2
