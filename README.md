@@ -1,5 +1,5 @@
 ---
-title:  "Beacon"
+title:  "Beaconmatic"
 subtitle: "Envio de mensajes por medio de Beacon"
 author: "Ivan Yam, Hector Polanco"
 avatar: "img/authors/wferr.png"
