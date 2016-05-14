@@ -51,7 +51,7 @@ El número de objetos inteligentes va a explotar, tanto en nuestros hogares y en
    
 
 ##Demostracion
-  <a href="https://youtu.be/8h5rDCZnrlQ" target="_blank"><img class="image-center" src="img/Beacons/Video.png"/>
+  <a href="https://youtu.be/8h5rDCZnrlQ" target="_blank"> <img class="image-center" src="img/Beacons/Video.png"/>
   
   [Ver Video](https://youtu.be/8h5rDCZnrlQ)
 
