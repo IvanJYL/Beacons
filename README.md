@@ -63,7 +63,7 @@ date:   2015-05-12 12:12:12
 [Ver Video](https://youtu.be/8h5rDCZnrlQ)
 
 ### Lenguajes de programación :
-* Arduino: Usado para la configuracion de la Flora y el modulo Bluetooth. [Ver repositorio](https://github.com/IvanJYL/Beacons/tree/master/PhysicalWeb)
+* Arduino: Usado para la configuracion de la Flora y el modulo Bluetooth. [Ver repositorio](https://github.com/IvanJYL/Beacons/tree/master/Beacon)
 * Java: usado para el desarrollo de la aplicación móvil. [Ver repositorio](https://github.com/IvanJYL/Beacons/tree/master/PhysicalWeb)
 
 ### Detalles Tecnicos:
